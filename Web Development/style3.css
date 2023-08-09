@@ -1,0 +1,87 @@
+body{
+    background-image: url(HD-wallpaper-glitter-black-gold.jpg) ;
+    color: floralwhite;
+}
+h2{
+    color:floralwhite;
+    font-size: 5em;
+    margin-top: 0px;
+    margin-left: 4em;
+}
+h5{
+    font-size: 25px
+}
+.rotaryclub {
+    border: 4px solid greenyellow;
+    padding-right: 0px;
+    margin-right: 39em;
+    padding-left: 2em;
+    padding-top: 0px;
+    padding-bottom: 1em;
+    margin-bottom: 2em;
+}
+.supriyasule{
+    float: right;
+    border:4px solid aqua;
+    margin-left: 49em;
+    padding-left: 2em;
+    padding-top: 0px;
+    padding-bottom: 1em;
+    margin-bottom:2em ;
+
+}
+.sainathmandal{
+    border: 4px solid greenyellow;
+    float: left;
+    padding-left: 2em;
+    padding-right: 4em;
+    padding-top: 0px;
+    padding-bottom: 1em;
+    margin-bottom:2em ;
+    background-color: black;
+
+
+}
+.policefriend{
+    float: right;
+    border:4px solid aqua;
+    padding-left: 2em;
+    padding-top: 0px;
+    padding-bottom: 1em;
+    margin-bottom:2em ;
+}
+.lionsclub{
+   float: left;
+    border: 4px solid greenyellow;
+  margin-right: 24em;
+  padding-left: 2em;
+  padding-bottom: 1em;
+  padding-top: 0px;
+  margin-bottom: 2em;
+  background-color: black;
+ 
+}
+.internationallions{
+    float: right;
+    border:4px solid aqua;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 0px;
+    padding-bottom: 1em;
+    background-color: black;
+    margin-bottom: 2em;
+}
+.news{float: left;
+    border: 4px solid greenyellow;
+    margin-right: 44em;
+    padding-left: 2em;
+    padding-top: 0px;
+    padding-bottom: 1em;
+    margin-bottom: 5em;
+    
+
+
+}
+.news1 img{
+    margin-right: 10em;
+}

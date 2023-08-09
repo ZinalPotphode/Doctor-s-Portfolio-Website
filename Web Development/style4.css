@@ -1,0 +1,104 @@
+body{
+    background-image: url(blackbackground.jpg);
+    color: floralwhite;
+}
+h2{
+    font-size: 5em;
+    margin-top: 0px;
+    margin-left: 5em;
+}
+.icons i{color: floralwhite;
+    margin-left: 2em;
+    margin-right: 0.5em;
+    margin-bottom: 1em;
+
+}
+h5{
+    font-size: 25px
+}
+.icons a{
+    color: floralwhite;
+    text-decoration: none;
+}
+.icons a:hover{
+    color: tomato;
+}
+.bigicons i{
+    
+   margin-left: 36px;
+    margin-right: 12px;
+    font-size: 4em;
+    color: floralwhite;
+}
+.icons p{
+    
+}
+.text{
+    margin-bottom: 0px;
+}
+.icons2 i{
+    margin-bottom: 0px;
+    margin-left:2em;
+    margin-right: 0.5em;
+}
+.text{
+    margin-left: 9.5em;
+}
+.icons2{
+    margin-bottom: 2em;
+}
+.bigicons i:hover{
+    color: tomato;
+}
+h4{
+    font-size: 38px;
+
+}
+.appointment{
+    margin-left: 28em;
+    margin-top: 6em;
+    border: solid white;
+    padding-left: 2em;
+    margin-right: 25em;
+    margin-bottom: 2em;
+}
+h4{
+    margin-bottom: 0px;
+}
+input[type="text"]
+{
+    width:70%;
+    border-radius: 4px;
+}
+input[type="email"]
+{
+    width:66%;
+    border-radius: 4px;
+}
+input[type="date"]
+{
+    width:73%;
+    border-radius: 4px;
+}
+input[type="time"]
+{
+    width:72%;
+    border-radius: 4px;
+}
+
+input[type="submit"]
+{
+    width:20%;
+    margin-left: 17em;
+    border-radius: 8px;
+    background-color: rgb(41, 208, 55);
+    padding: 12px 24px;
+    cursor: pointer;
+}
+.appointment h4{
+    text-align: center;
+}
+input[type="submit"]:hover{
+    background-color: #32bf5a;
+}
+

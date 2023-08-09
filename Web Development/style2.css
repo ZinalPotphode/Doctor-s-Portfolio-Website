@@ -1,0 +1,155 @@
+body{
+    background-color: black;
+    color: floralwhite;
+    margin: 0px;
+}
+h2{
+    font-size: 5em;
+    margin-top: 0px;
+    padding-left: 5em;
+    background-color: #ffff00;
+    color: black;
+}
+h4 span{
+ background-color:#ff1493 ;
+ padding: 15px 15px;
+ border-top-right-radius: 15%;
+ border-bottom-right-radius: 15%;
+ 
+}
+h4{
+    font-size: 2.5em;
+}
+.stato img {
+    border-radius: 50%;
+    float: right;
+    margin-right: 4em;
+    border: solid red;
+    margin-left: 1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+h5{font-size: 25px;
+    margin-left: 15px;
+    margin-bottom: 0px;
+
+}
+.stato img:hover{
+    width: 12%;
+    height:14% ;
+    margin-bottom: 0px;
+}
+.homevisits h4 span{
+    background-color: #ff1493 ;
+ padding: 15px 15px;
+ border-top-left-radius: 15%;
+ border-bottom-left-radius: 15%;
+ float: right;
+ margin-top: 2em;
+ border-top-right-radius: 0%;
+ border-bottom-right-radius: 0%;
+margin-left: 0px;
+}
+.homevisitstext h5{font-size: 25px;
+    float: right;
+    margin-right: 15px;
+    margin-bottom: 0px;
+   
+}
+.heartbeats img{ animation: beating 0.5s ease 0s infinite alternate both;
+    width: 17%;
+    height: 17%;
+    border-radius: 50%;
+    float: left;
+    margin-left: 4em;
+    margin-top: 0px;
+}
+@keyframes beating{
+    0%{width: 17%;
+        height: 17%;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    100% {
+        width: 22%;
+        height: 22%;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+}
+.RCN h4 span{
+    margin-top: 80px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+.bed {
+    border-radius: 50%;
+    float: right;
+    border: solid red;
+    margin-right: 12em;
+    margin-top: 0px;
+    width:225px;
+     height:225px;
+}
+
+.text h5{ 
+    margin-right: 0px;
+    margin-bottom: 0px;
+    
+}
+.activities h2{
+    font-size: 5em;
+    color: #ffff00;
+    background-color: black;
+    margin-top: 1em;
+    text-decoration-style:double;
+    margin-bottom: 0px;
+}
+.social h4 span{
+    background-color:tomato;
+    padding-left: 25px;
+    padding-right: 50px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+.camps img{
+    width:450px;
+     height: 270px;
+   border: solid white;
+    margin-top: 0px;
+   margin-left: 32em;
+    
+}
+.kids1 img{
+    float: left;
+    width:450px;
+     height: 270px;
+   border: solid white;
+    margin-top: 0px;
+    margin-left: 12em;
+ 
+}
+.kids2 img{
+    float: right;
+    width:450px;
+     height: 270px;
+   border: solid white;
+    margin-top: 0px;
+    margin-right: 12em;
+
+}
+.STH h4{
+    margin-left: 1.5em;
+}
+.tomato{
+    color: tomato;
+}
+.pink2{
+    color:#ff1493;
+}
+.marquee img{
+    width: 16em;
+    height: 16em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
